@@ -1,1 +1,1 @@
-# thank you for teaching me about github
+# thank you for teaching be git hub
